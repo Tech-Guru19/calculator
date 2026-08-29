@@ -1,19 +1,21 @@
-# 🧮 Calculator
+# Calculator
 
-A simple calculator project — classic arithmetic operations with vanilla web technologies.
+## Overview
 
-## 🧰 Tech Stack
+A simple calculator project implementing classic arithmetic operations with vanilla web technologies.
 
-`HTML5` `CSS3` `JavaScript`
+## Technology Stack
 
-## 🚀 Getting Started
+HTML5, CSS3, JavaScript
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/calculator.git
 cd calculator
-# open index.html in your browser (or npm install && npm run dev for React/Node projects)
+# Open index.html in your browser, or run npm install && npm run dev for React and Node projects
 ```
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
